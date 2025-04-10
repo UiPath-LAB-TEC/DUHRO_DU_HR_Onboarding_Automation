@@ -1,0 +1,61 @@
+{
+  "version": "2.0",
+  "resources": [
+    {
+      "resource": "asset",
+      "value": {
+        "folderPath": {
+          "defaultValue": "InternalDemos/DUHRO_DU_HR_Onboarding_Automation",
+          "isExpression": false
+        },
+        "name": {
+          "defaultValue": "DUHR_Authentication_URL",
+          "isExpression": false
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "resource": "asset",
+      "value": {
+        "folderPath": {
+          "defaultValue": "InternalDemos/DUHRO_DU_HR_Onboarding_Automation",
+          "isExpression": false
+        },
+        "name": {
+          "defaultValue": "OAILAP_API_Credentials",
+          "isExpression": false
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "resource": "asset",
+      "value": {
+        "folderPath": {
+          "defaultValue": "InternalDemos/DUHRO_DU_HR_Onboarding_Automation",
+          "isExpression": false
+        },
+        "name": {
+          "defaultValue": "DUHR_AIC_Base_URL",
+          "isExpression": false
+        }
+      },
+      "metadata": {}
+    },
+    {
+      "resource": "asset",
+      "value": {
+        "folderPath": {
+          "defaultValue": "InternalDemos/DUHRO_DU_HR_Onboarding_Automation",
+          "isExpression": false
+        },
+        "name": {
+          "defaultValue": "DUHR_MLSkillName",
+          "isExpression": false
+        }
+      },
+      "metadata": {}
+    }
+  ]
+}
